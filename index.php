@@ -19,6 +19,7 @@ EOSJacks
  <p style="margin-top:30px"> <font size=4 face=Calibri color=#da962d > EOSJacks предлагает около 30 000 игр на любой вкус, а также эксклюзивные предложения, автоматическое обновление игр и другие замечательные возможности.</font> </p>
 <center>
 <img src="EOSJacks.png" width="630" height="500" alt="Игровая платформа" title="Игровая платформа"/>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/VERbfWgh8F0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </center>
   
 </body>
